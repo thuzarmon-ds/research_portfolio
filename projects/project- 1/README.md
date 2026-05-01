@@ -1,13 +1,16 @@
 # Project 1: First Exploration
 
 ## Goal
-An Optimization
+Explore a dataset to identify patterns and insights.
 
 ## Dataset
-The Data comes from
+(To be added – include source and description)
 
 ## Method
-(To be filled)
+- Load dataset using Python
+- Clean missing data
+- Perform basic analysis
+- Create visualizations
 
 ## Results
 (To be filled)
